@@ -44,7 +44,7 @@ CSS Padding => The CSS padding properties are used to generate space around an e
 
 CSS Position property =>The `[position] property specifies the positioning type for an element.This property can have one of the following values:
 
-- `static` - This is default
+- `static` (This is default)
 - `relative`
 - `fixed`
 - `absolute`
