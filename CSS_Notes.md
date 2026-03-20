@@ -1,4 +1,4 @@
-1. CSS is the language we use to style a Web page. CSS stands for Cascading Style Sheets.
+1. CSS is the language we use to style a Web page. CSS stands for Cascading Style Sheets(CSS).
 2. CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 3. ==Syntax => h1{color: blue; font-size:12px;}== 
    ==**h1 selector** =>The selector points to the HTML element you want to style.==
